@@ -1,5 +1,5 @@
 body {
-  background: honeydew;
+  background: #96B296;
 }
 
 section {
@@ -14,6 +14,7 @@ section h2 {
 
 #header .jumbotron {
   margin-top: 3rem;
+  background-color: #F0FFF0;
 }
 
 #header h1 {
@@ -37,7 +38,7 @@ section h2 {
 #info ul li {
   padding: 1rem 2rem 2rem 2rem;
   margin: 1rem 0;
-  background: #eee;
+  background: #F0FFF0;
 }
 
 #info ul li h4 {
@@ -51,4 +52,9 @@ section h2 {
   font-size: 3rem;
   margin: 0 1rem 0 0;
   color: #888;
+}
+
+#contact address {
+  background: #F0FFF0;
+  padding: 2rem;
 }
